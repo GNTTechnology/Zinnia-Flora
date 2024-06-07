@@ -1,4 +1,7 @@
 @media screen and (max-width: 576px) {
+  body {
+    font-weight: 400;
+  }
   .Hero_title {
     font-family: "Noto Serif Display", serif;
     font-weight: 600;
